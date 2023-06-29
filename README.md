@@ -6,7 +6,7 @@
 
 -💞️ I’m eager to collaborate with professionals and enthusiasts on data science, software, applications, digital transformation and cybersecurity projects.
 
--📫 Reach me ... 
+-📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
 
 <!---
 Alortiztique/Alortiztique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
