@@ -1,6 +1,6 @@
 -👋 Hello, I’m @Alortiztique, a passionate learner and innovator in artificial intelligence.
 
--👀 I’m fascinated by the applications of AI in robotics, especially in the fields of health sciences and aerospace engineering.
+-👀 I’m fascinated by the applications of AI in robotics, especially in the fields of health sciences and aerospace.
 
 -🌱 I’m currently acquiring new skills and knowledge in these domains, as well as exploring other related areas.
 
