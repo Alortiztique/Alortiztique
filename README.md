@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alortiztique
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning robotics.
-- 💞️ I’m looking to collaborate on data science, software, applications digital transformation and cybersecurity.
+- 💞️ I’m looking to collaborate on data science, software, applications, digital transformation and cybersecurity.
 - 📫 Reach me ... 
 
 <!---
