@@ -1,15 +1,15 @@
--👋 Hello, I’m @Alortiztique, a passionate learner and innovator in artificial intelligence.
+*👋 Hello, I’m @Alortiztique, a passionate learner and innovator in artificial intelligence.
 
--👀 I’m fascinated by the applications of AI in robotics, especially in the fields of health sciences, aerospace and agriculture.
+*👀 I’m fascinated by the applications of AI in robotics, especially in the fields of health sciences, aerospace and agriculture.
 
--🌱 I’m currently acquiring new skills and knowledge in these domains, as well as exploring other related areas.
+*🌱 I’m currently acquiring new skills and knowledge in these domains, as well as exploring other related areas.
 
--💞️ I’m eager to collaborate with professionals and enthusiasts on data science, software, applications, digital transformation and cybersecurity projects.
+*💞️ I’m eager to collaborate with professionals and enthusiasts on data science, software, applications, digital transformation and cybersecurity projects.
 
--📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
+*📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
 
 
-#“You can’t learn everything, but you have to convince yourself that you can learn anything…” - John Carmack
+**“You can’t learn everything, but you have to convince yourself that you can learn anything…” - John Carmack**
 
 <!---
 Alortiztique/Alortiztique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
