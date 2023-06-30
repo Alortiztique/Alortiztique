@@ -8,6 +8,9 @@
 
 -📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
 
+
+#“You can’t learn everything, but you have to convince yourself that you can learn anything…” - John Carmack
+
 <!---
 Alortiztique/Alortiztique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
