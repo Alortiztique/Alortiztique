@@ -4,7 +4,7 @@ I'm a passionate learner and innovator in artificial intelligence. I'm fascinate
 
 ## Some things about me 🤖
 
-- 🎓 I'm studying Computer Science at Universidad de los Andes.
+- 🎓 I'm studying Computer Science.
 - 💻 I have experience in Python, R, C++, MATLAB, TensorFlow, PyTorch and ROS.
 - 🚀 I'm interested in machine learning, image processing, pattern recognition, computer vision and NLP.
 - 📚 I'm reading the book "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig.
