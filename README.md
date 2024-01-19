@@ -1,6 +1,14 @@
 # Hello, I'm @Alortiztique 👋
 
-I'm a passionate learner and innovator in artificial intelligence. I'm fascinated by the applications of AI in robotics, especially in the fields of health sciences, agriculture, aerospace and law.
+I am Al.ortiztique, a Computer Science student at an accredited university in the United States. I have several formal certifications issued by institutions such as Harvard University, Stanford, and Google. My interest is in disruptive technologies and I chose the Data Science specialization path in order to apply this discipline to cybersecurity. I am passionate about cybersecurity and enjoy creating solutions that can positively impact an organization and the people it serves.
+
+Also, I'm a passionate learner and innovator in artificial intelligence. I'm fascinated by the applications of AI in robotics, especially in the fields of health sciences, agriculture, aerospace and law.
+
+## My strengths include verbal and written communication, ethical hacking and project planning.
+
+## My values are based on protecting people, adhering to the law and speaking out against injustice.
+
+## My career goal is to work at a high profile company such as Google, Tesla or Microsoft in cybersecurity as part of a red team or offensive hacking.
 
 ## Some things about me 🤖
 
