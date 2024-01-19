@@ -4,11 +4,11 @@ I am Al.ortiztique, a Computer Science student at an accredited university in th
 
 Also, I'm a passionate learner and innovator in artificial intelligence. I'm fascinated by the applications of AI in robotics, especially in the fields of health sciences, agriculture, aerospace and law.
 
-# My strengths include verbal and written communication, ethical hacking and project planning.
+My strengths include verbal and written communication, ethical hacking and project planning.
 
-# My values are based on protecting people, adhering to the law and speaking out against injustice.
+My values are based on protecting people, adhering to the law and speaking out against injustice.
 
-# My career goal is to work at a high profile company such as Google, Tesla or Microsoft in cybersecurity as part of a red team or offensive hacking.
+My career goal is to work at a high profile company such as Google, Tesla or Microsoft in cybersecurity as part of a red team or offensive hacking.
 
 ## Some things about me 🤖
 
