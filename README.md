@@ -1,6 +1,6 @@
 # Hello, I'm @Al.ortiztique 👋
 
-I am Al.ortiztique, a Computer Science student at an accredited university in the United States. I have several formal certifications issued by institutions such as Harvard University, Stanford, and Google. My interest is in disruptive technologies and I chose the Data Science specialization path in order to apply this discipline to cybersecurity. I am passionate about cybersecurity and enjoy creating solutions that can positively impact an organization and the people it serves.
+I am Al.ortiztique, a Computer Science student at University of the People, an accredited university in the United States. I have several formal certifications issued by institutions such as Harvard University, Stanford, and Google. My interest is in disruptive technologies and I chose the Data Science specialization path in order to apply this discipline to cybersecurity. I am passionate about cybersecurity and enjoy creating solutions that can positively impact an organization and the people it serves.
 
 Also, I'm a passionate learner and innovator in artificial intelligence. I'm fascinated by the applications of AI in robotics, especially in the fields of health sciences, agriculture, aerospace and law.
 
