@@ -1,35 +1,31 @@
 # Hello, I'm @Al.ortiztique 👋
 
-I am Al.ortiztique, a Computer Science student. I have several formal certifications issued by institutions such as Harvard University, Stanford, and Google. My interest is in disruptive technologies and I chose the Data Science specialization path in order to apply this discipline to cybersecurity. I am passionate about cybersecurity and enjoy creating solutions that can positively impact an organization and the people it serves.
-
-Also, I'm a passionate learner and innovator in artificial intelligence. I'm fascinated by the applications of AI in robotics, especially in the fields of health sciences, agriculture, aerospace and law.
-
-My strengths include verbal and written communication, ethical hacking and project planning.
-
-My values are based on protecting people, adhering to the law and speaking out against injustice.
-
-My career goal is to work at a high profile company such as Google, Tesla or Microsoft in cybersecurity as part of a red team or offensive hacking.
+I'm Al.ortiztique, a Computer Science innovator specializing in Robotics, Machine Learning, and Cybersecurity. Armed with certifications from Harvard, Stanford, and Google, I'm on a mission to leverage disruptive technologies for the benefit of humanity in critical fields like medicine, agriculture, education, space exploration, and law.
+My expertise spans cybersecurity, intellectual property, and AI applications in robotics. I'm passionate about creating solutions with real-world impact, as demonstrated by my personal projects addressing global challenges.
+My strengths lie in systems thinking, a strong bias for action, project management leadership, and the ability to abstract complex problems into practical applications. I'm driven by values of protection, justice, legal integrity and social wellness. 
+My goal is to contribute to pioneering organizations like SpaceX, NASA, or cutting-edge academic institutions, where I can harness the synergy between robotics, AI, and cybersecurity to drive advancements that benefit society.
+I'm ready to tackle the world's most complex challenges, combining technological innovation with humanitarian purpose.
 
 ## Some things about me 🤖
 
 - 🎓 I'm studying Computer Science.
-- 💻 I have experience in Python, R, C++, MATLAB, TensorFlow, PyTorch and ROS.
+- 💻 I have experience in Python, Java, C, TensorFlow, YOLO and ROS.
 - 🚀 I'm interested in machine learning, image processing, pattern recognition, computer vision and NLP.
 - 📚 I'm reading the book "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig.
-- 🎮 I like playing video games, especially strategy and simulation ones.
-- 🎧 I listen to classical music, jazz, blues, rock and techno.
-- 🌎 I speak Spanish, English and a little bit of Japanese.
+- 🎮 I like playing video games, especially strategy and FPS.
+- 🎧 I listen to classical music and techno.
+- 🌎 I speak Spanish, English, German and a little bit of Japanese.
 
 ## My projects 🛠️
 
 Here are some of the projects that I have done or participated in:
 
 - [Aurora App](https://linktr.ee/auroraapp): A social network to raise awareness and protect people from gender violence, with a real-time map of dangerous areas and free legal advice and representation.
-- [RoboMed](https://): A medical robot that can perform diagnosis, surgery and treatment with precision and safety.
-- [SpaceXplorer](https://): An explorer robot that can navigate through space and collect scientific data from spacial dust.
+- [EagleView AI](https://www.instagram.com/p/C77hJxXv6YX/?img_index=1): A software developed for the Aireforce of Colombia to protect our natural resources from aerospace imagery.
+- [MARIA - Rover Explorer](https://www.instagram.com/p/C5WoS5fuhks/): Mars Exploration Rover of the Robocol Colombian team that participate in the URC (University Rover Challenge). An explorer robot that can navigate through space and collect scientific data from spacial dust.
 - [AgroBot](https://agrobot.com): An agricultural robot that can sow, harvest and monitor crops with efficiency and sustainability.
-- [FaceRec](https://): A web application that can recognize faces and emotions with artificial intelligence.
-
+- [neo.replicante](https://linktr.ee/neo.replicante): A news portal dedicated to the scientific divulgation of knwoledge on the intersection of Computer Science, Law, History, Education, Business and Medicine. 
+  
 ## My social networks 🌐
 
 You can find me on the following social networks:
@@ -38,6 +34,7 @@ You can find me on the following social networks:
 - [Twitter](https://twitter.com/Alortiztique)
 - [Instagram](https://www.instagram.com/Al.ortiztique)
 - [GitHub](https://github.com/Alortiztique)
+- [Facebook](https://www.facebook.com/Al.ortiztique/)
 - 📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
 
 ## My favorite quote 💬
