@@ -4,9 +4,9 @@ I'm a Computer Science innovator specializing in Robotics, Machine Learning, and
 
 ## Some things about me 🤖
 
-- 🎓 I'm studying Computer Science.
-- 💻 I have experience in Python, Java, C, TensorFlow, YOLO and ROS.
-- 🚀 I'm interested in machine learning, image processing, pattern recognition, computer vision and NLP.
+- 🎓 I'm studying CS.
+- 💻 I have experience in Python, Java, C++, YOLOv8 and ROS2.
+- 🚀 I'm interested in robotics, machine learning, computer vision and NLP.
 - 📚 I'm reading the book "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig.
 - 🎮 I like playing video games, especially strategy and FPS.
 - 🎧 I listen to classical music and techno.
@@ -24,13 +24,6 @@ Here are some of the projects that I have done or participated in:
   
 ## My social networks 🌐
 
-You can find me on the following social networks:
-
-- [LinkedIn](https://www.linkedin.com/in/Alortiztique)
-- [Twitter](https://twitter.com/Alortiztique)
-- [Instagram](https://www.instagram.com/Al.ortiztique)
-- [GitHub](https://github.com/Alortiztique)
-- [Facebook](https://www.facebook.com/Al.ortiztique/)
 - 📫 (Reach me at AES-256-CBC) -> U2FsdGVkX1+rwfLUa2Wn59N56PxqdTswtrsAQe9CMggD4+tCNhA/OYaence0vBct
 
 ## My favorite quote 💬
