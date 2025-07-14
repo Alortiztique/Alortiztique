@@ -1,4 +1,4 @@
-# Hello, I'm @Al.ortiztique 👋
+# Hello👋
 
 I'm a Computer Science innovator specializing in Robotics, Machine Learning, and Cybersecurity, with certifications from Harvard, Stanford, and Google. My mission is to leverage disruptive technologies for humanity's benefit in medicine, agriculture, education, space exploration, and law. With expertise in cybersecurity, intellectual property, and AI applications in robotics, I create solutions with real-world impact. My strengths in systems thinking, action-oriented problem-solving, and project leadership drive me to tackle complex global challenges. Driven by values of protection, justice, and social wellness, I aim to contribute to pioneering organizations like SpaceX, NASA, or cutting-edge academic institutions. I'm ready to harness the synergy between robotics, AI, and cybersecurity to drive societal advancements. Let's connect and create something extraordinary! 🚀
 
