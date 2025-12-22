@@ -5,7 +5,7 @@
 - [EagleView AI](https://www.instagram.com/p/C77hJxXv6YX/?img_index=1): A software developed for the Aireforce of Colombia to protect our natural resources from aerospace imagery.
 - [MARIA - Rover Explorer](https://www.instagram.com/p/C5WoS5fuhks/): Mars Exploration Rover of the Robocol Colombian team that participate in the URC (University Rover Challenge). An explorer robot that can navigate through space and collect scientific data from spacial dust.
 - [AgroBot](https://agrobot.com): An agricultural robot that can sow, harvest and monitor crops with efficiency and sustainability.
-- [neo.replicante](https://linktr.ee/neo.replicante): A news portal dedicated to the scientific divulgation of knwoledge on the intersection of Computer Science, Law, History, Education, Business and Medicine. 
+- [neo.replicante](https://linktr.ee/neoreplicante): A news portal dedicated to the scientific divulgation of knwoledge on the intersection of Computer Science, Law, History, Education, Business and Medicine. 
   
 ## My social networks 🌐
 
