@@ -1,20 +1,21 @@
 <div align="center">
 
 # ⚡ ALEJANDRO ORTIZ TIQUE
-### *Computer Scientist • Ubiquitous Computing & Robotics Researcher • Technology Entrepreneur*
-#### **Universidad de los Andes, Bogotá, Colombia**
+### *Computer Scientist • Ubiquitous Computing & Robotics Researcher • Deep-Tech Founder*
+#### **Universidad de los Andes • Bogotá, Colombia**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=920&lines=CS+Scholar+%26+Researcher+%40+Universidad+de+los+Andes;Lead+%40+AI+Group%2C+IEEE+Computer+Society+UniAndes;The+Diana+Award+2024+Roll+of+Honour+Recipient;Founder+%26+Executive+Director+%40+Aurora+App;Co-Founder+%26+CTO+%40+NeuronaX+S.A.S.;Research+Focus%3A+Ubiquitous+Computing%2C+Robotics+%26+Reverse+Osmosis;Core+Stack%3A+Vector+Calculus+%2B+Linear+Algebra+(First+Principles))](https://github.com/Alortiztique)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=CS+Scholar+%26+Researcher+%40+Universidad+de+los+Andes;The+Diana+Award+2024+Roll+of+Honour+Recipient;Aspire+Institute+Community+Action+Award+(Harvard+University);AI+Group+Lead+%40+IEEE+Computer+Society+UniAndes;Founder+%26+Executive+Director+%40+Aurora+App;Co-Founder+%26+CTO+%40+NeuronaX+S.A.S.;Research%3A+Ubiquitous+Computing%2C+Robotics+%26+Reverse+Osmosis;Core+Engine%3A+Vector+Calculus+%2B+Linear+Algebra+(First+Principles))](https://github.com/Alortiztique)
 
 <br/>
 
 [![The Diana Award](https://img.shields.io/badge/The_Diana_Award-2024_Roll_of_Honour-FFD700?style=for-the-badge&logo=award&logoColor=black)](https://diana-award.org.uk)
+[![Aspire Award Harvard](https://img.shields.io/badge/Aspire_Institute-Harvard_Univ_Award-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://aspireleaders.org)
 [![UniAndes](https://img.shields.io/badge/UniAndes-Computer_Science-FFD100?style=for-the-badge&logo=academia&logoColor=black)](https://uniandes.edu.co)
 [![IEEE CS](https://img.shields.io/badge/IEEE_Computer_Society-AI_Group_Lead-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://computer.org)
 [![Cornell Tech Mentee](https://img.shields.io/badge/Cornell_Tech-Research_Mentee-B31B1B?style=for-the-badge&logo=cornell&logoColor=white)](https://tangemicioglu.com)
-[![Robocol URC](https://img.shields.io/badge/Robocol-University_Rover_Challenge-E03C31?style=for-the-badge&logo=nasa&logoColor=white)](https://www.instagram.com/p/C5WoS5fuhks/)
+[![Robocol URC](https://img.shields.io/badge/Robocol-Mars_Rover_URC-E03C31?style=for-the-badge&logo=nasa&logoColor=white)](https://www.instagram.com/p/C5WoS5fuhks/)
 [![NeuronaX CTO](https://img.shields.io/badge/NeuronaX_SAS-Co--Founder_%26_CTO-42C7F5?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/NeuronaX-SAS)
 [![Aurora App](https://img.shields.io/badge/Aurora_App-Founder_%26_Director-8A2BE2?style=for-the-badge&logo=apple&logoColor=white)](https://miaurora.app)
 [![NeoReplicante](https://img.shields.io/badge/NeoReplicante-BioArt_%26_Cybernetics-00DFD8?style=for-the-badge&logo=substack&logoColor=black)](https://linktr.ee/neoreplicante)
@@ -32,7 +33,7 @@
     <img src="https://img.shields.io/badge/💻_Devpost-Portfolio-003E54?style=flat-square&logo=devpost&logoColor=white" alt="Devpost"/>
   </a>
   <a href="https://linktr.ee/neoreplicante">
-    <img src="https://img.shields.io/badge/🌐_NeoReplicante-Digital_Ecosystem-43E97B?style=flat-square&logo=linktree&logoColor=white" alt="NeoReplicante Linktree"/>
+    <img src="https://img.shields.io/badge/🌐_NeoReplicante-Hub-43E97B?style=flat-square&logo=linktree&logoColor=white" alt="NeoReplicante Linktree"/>
   </a>
   <a href="https://github.com/Alortiztique?tab=repositories">
     <img src="https://img.shields.io/badge/📦_Repositories-Explore_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repos"/>
@@ -48,26 +49,26 @@
 
 </div>
 
-## 🌌 Executive Summary & Academic Trajectory
+## 🌌 Executive Summary & Research Profile
 
-I am a computer science researcher, robotics builder, and founder based at **Universidad de los Andes (Bogotá, Colombia)**. My life's work is driven by a singular conviction: **high-agency engineering grounded in fundamental mathematical laws can solve civilization-scale crises.**
+I am a computer science researcher, robotics builder, and deep-tech entrepreneur at **Universidad de los Andes (Bogotá, Colombia)**. I combine high-agency execution with deep mathematical rigor to build autonomous systems that safeguard human life, protect planetary resources, and withstand systemic climate volatility.
 
-I lead the **AI Group at the IEEE Computer Society (UniAndes Chapter)**, conduct research at the intersection of physiological computing and ubiquitous sensing (having collaborated under the mentorship of Tan Gemicioglu at **Cornell Tech** on vagus nerve stimulation tracking), and have contributed to planetary exploration robotics through the **University Rover Challenge (URC - Robocol Team)** with the *MARIA* Mars Rover, as well as aerospace computer vision for the **Colombian Aerospace Force (FAC)** with *EagleView AI*.
-
-As an entrepreneur and humanitarian engineer, I founded **Aurora App**—a sovereign platform combating gender-based violence that earned the prestigious **2024 Diana Award (Roll of Honour)** in the United Kingdom. Concurrently, as Co-Founder & CTO of **NeuronaX S.A.S.**, I architect production AI agent workflows, generative systems, and AgriTech hardware while accelerating top Latin American engineering talent.
+* **Research Pedigree:** Lead of the **AI Group at IEEE Computer Society (UniAndes)**. Mentee of Tan Gemicioglu (**Cornell Tech**) in wearable sensing and vagus nerve stimulation tracking. Contributor to planetary autonomy with **Robocol** (*MARIA* Mars Rover for the **University Rover Challenge - MDRS Utah**) and aerospace computer vision for the **Colombian Aerospace Force (FAC)** with *EagleView AI*.
+* **Global Distinctions:** Recipient of **The Diana Award (2024 Roll of Honour)** in the UK and winner of the **Community Action Award from the Aspire Institute (founded at Harvard University)** for pioneering human-rights technology. 1st Place Champion in oral advocacy and legal analysis at the **American University Washington College of Law International Moot Court**.
+* **Foundational Conviction:** I am targeting **Doctoral Programs in Engineering & Frontier AI Research Labs (Google DeepMind • OpenAI • Anthropic • xAI)** to develop closed-loop ubiquitous computing, field robotics, and cyber-physical water systems (Reverse Osmosis) for planetary agricultural resilience.
 
 ---
 
-## 🎯 Ph.D. Research Vision: Ubiquitous Computing & Robotics for Agricultural Resilience
+## 🎯 Ph.D. Research Agenda: Ubiquitous Autonomy & Reverse Osmosis for Agricultural Resilience
 
-> **Targeting Doctoral Programs & Elite Research Labs (Google DeepMind • OpenAI • Anthropic • xAI)**  
-> *Theme: Closed-loop cyber-physical autonomy, ubiquitous sensory fabrics, and water desalination telemetry to guarantee food security in climate-distressed regions.*
+> **Focus: Cyber-Physical Autonomy, Micro-Sensing Fabrics & Closed-Loop Desalination Telemetry**  
+> *Objective: Securing high-yield, zero-waste food production against soil salinization and climate-induced water scarcity.*
 
 ```mermaid
 flowchart LR
     subgraph SENSING["1. Ubiquitous Sensing Fabric"]
         direction TB
-        A["Soil Chemistry & Salinity Telemetry"]
+        A["Soil Chemistry & Salinity Sensors"]
         B["Micro-Climate & Thermal Gradient"]
         C["Crop Transpiration & Optical Sensing"]
     end
@@ -86,196 +87,151 @@ flowchart LR
         I["Closed-Loop Brackish Desalination"]
     end
 
-    subgraph IMPACT["4. Climate Resilience & Venture Impact"]
+    subgraph IMPACT["4. Climate Resilience & Deep-Tech Venture"]
         direction TB
         J["Anti-Salinization Precision Dosing"]
         K["Guaranteed Zero-Waste Food Security"]
-        L["Scalable Global Deep-Tech Venture"]
+        L["Global Scalable Hard-Tech Venture"]
     end
 
     SENSING --> AUTONOMY
     AUTONOMY --> RO
     RO --> IMPACT
-    IMPACT -.->|"Adaptive Optimization Feedback"| SENSING
+    IMPACT -.->|"Adaptive Feedback Loop"| SENSING
 ```
 
+### 1. The Civilization Challenge
+Aridification, rapid groundwater salinization, and climate volatility threaten global food security. Legacy precision agriculture relies on static point sensors that cannot model dynamic micro-climates, paired with blind irrigation cycles that accelerate catastrophic soil salinization.
 
-### The Civilization Problem
-Global climate disruption is accelerating freshwater depletion, soil salinization, and unpredictable micro-climates across critical agricultural belts. Traditional precision agriculture operates in disconnected silos: static sensors fail under unpredictable environmental stressors, while automated tractors lack real-time biochemical feedback loops.
-
-### The Research Agenda
-My proposed doctoral research addresses the convergence of three foundational pillars:
-
+### 2. The Multi-System Doctoral Proposal
 1. **Ubiquitous Sensory Fabrics & Edge State Estimation:**  
-   Deploying ultra-low-power, decentralized sensor arrays to continuously measure multi-depth soil chemistry, leaf-level transpiration, and micro-climate gradients using distributed Kalman filtering and nonlinear state-space models ($\dot{\mathbf{x}} = f(\mathbf{x}, \mathbf{u}) + \mathbf{w}$).
-2. **Autonomous Field Robotics & Adaptive Physical Manipulation:**  
-   Designing bio-inspired, cost-efficient ground rovers (iterating from our *AgroBot* and *MARIA Rover* architectures) capable of autonomous navigation through dense crop canopies, real-time computer vision phenotyping (SAM / Edge Transformers), and selective micro-dosing of nutrients.
+   Deploying ultra-low-power, decentralized edge sensor nodes tracking multi-depth soil electrochemistry, salinity, and transpiration dynamics governed by nonlinear state-space models ($\dot{\mathbf{x}} = f(\mathbf{x}, \mathbf{u}) + \mathbf{w}$) and distributed Kalman filtering.
+2. **Autonomous Field Robotics & Real-Time Phenotyping:**  
+   Developing ruggedized, low-cost autonomous field rovers (advancing our *AgroBot* and *MARIA Rover* architectures) running **ROS 2**, micro-ROS, on-device Segment Anything (SAM), and adaptive micro-dosing actuators under dense crop canopies.
 3. **Cyber-Physical Water Desalination & Reverse Osmosis (RO) Telemetry:**  
-   Integrating modular, renewable-powered Reverse Osmosis units directly into the robotic irrigation loop. By mathematically modeling osmotic membrane degradation, dynamic pressure differentials ($\Delta P - \Delta \pi$), and flux recovery through predictive neural surrogates, the robotic system can dynamically desalinate and tailor brackish groundwater directly to instantaneous crop tolerance levels—mitigating soil salinization before irreversible damage occurs.
-4. **Resilient Venture Building:**  
-   Translating theoretical breakthroughs into scalable, deployable hard-tech ventures that safeguard vulnerable rural food systems across the Global South and arid zones worldwide.
+   Closing the loop between autonomous field rovers and modular, renewable-powered Reverse Osmosis desalination units. By continuously modeling membrane flux degradation ($J_w = \mathcal{A}(\Delta P - \Delta \pi)$) and salt rejection via predictive neural surrogates, the system dynamically purifies brackish water to the precise osmotic threshold required by the crop, halting soil degradation.
+4. **Commercialization & Global Deployment:**  
+   Translating these cyber-physical breakthroughs into a scalable hard-tech venture deployed across arid agricultural regions in the Global South and worldwide.
 
 ---
 
-## 📐 The Core Stack: Invariant Mathematics & First Principles
+## 📐 The Core Engine: Invariant Mathematics & First Principles
 
 > *"Frameworks are transient. Mathematical physics and first principles are eternal."*
 
-In an era of hyper-inflated buzzwords, **my primary everyday tech stack is Vector Calculus and Linear Algebra.** Frameworks change every six months; the gradient $\nabla f$, the Jacobian $\mathbf{J}$, the Hessian $\mathbf{H}$, and the singular value decomposition $\mathbf{A} = \mathbf{U} \mathbf{\Sigma} \mathbf{V}^T$ remain the unshakeable foundation of intelligence and mechanical control.
+In an industry flooded with short-lived abstractions, **my everyday foundational tech stack is Vector Calculus and Linear Algebra.** Frameworks change; the gradient $\nabla f$, the Jacobian $\mathbf{J}$, the Hessian $\mathbf{H}$, and the singular value decomposition $\mathbf{A} = \mathbf{U}\mathbf{\Sigma}\mathbf{V}^T$ remain the invariant engine of artificial intelligence, state estimation, and mechanical control.
 
-<table>
-<tr>
-<th width="50%">
-  <h3>🔬 Level 0: The Invariant Engine (Foundations)</h3>
-</th>
-<th width="50%">
-  <h3>⚙️ Level 1: The Executable Substrate (Tech-Stack Agnostic)</h3>
-</th>
-</tr>
-<tr>
-<td valign="top">
-
-```math
+$$
 \begin{aligned}
-\text{Optimization:} \quad & \mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t \, \nabla \mathcal{L}(\mathbf{w}_t) \\
-\text{State Space:} \quad & \dot{\mathbf{x}}(t) = \mathbf{A}\mathbf{x}(t) + \mathbf{B}\mathbf{u}(t) + \mathbf{w}(t) \\
-\text{Decomposition:} \quad & \mathbf{A} = \sum_{i=1}^r \sigma_i \mathbf{u}_i \mathbf{v}_i^T \\
-\text{Continuity / Flux:} \quad & \nabla \cdot \mathbf{v} = 0, \quad \oint_{\partial \Omega} \mathbf{F} \cdot d\mathbf{S}
+\textbf{Optimization \& Gradient Flows:} \quad & \mathbf{w}_{t+1} = \mathbf{w}_t - \eta_t \, \nabla \mathcal{L}(\mathbf{w}_t) \\
+\textbf{Dynamical State-Space Control:} \quad & \dot{\mathbf{x}}(t) = \mathbf{A}\mathbf{x}(t) + \mathbf{B}\mathbf{u}(t) + \mathbf{w}(t) \\
+\textbf{Spectral Matrix Decomposition:} \quad & \mathbf{A} = \mathbf{U} \mathbf{\Sigma} \mathbf{V}^T = \sum_{i=1}^r \sigma_i \mathbf{u}_i \mathbf{v}_i^T \\
+\textbf{Osmotic Membrane Flux \& Continuity:} \quad & J_w = \mathcal{A} \left( \Delta P - \Delta \pi \right), \quad \nabla \cdot \mathbf{v} = 0
 \end{aligned}
+$$
+
+### 🔬 Level 0: The Invariant Theoretical Foundation
+* **Vector Calculus & Differential Geometry:** Multivariable optimization landscapes, Jacobians, Hessians, vector field divergence/curl, manifold optimization, Lagrangian mechanics ($\mathcal{L} = T - V$).
+* **Linear Algebra & Spectral Theory:** SVD, eigendecompositions, pseudoinverses, orthogonal projections, high-dimensional tensor contractions, Hilbert spaces.
+* **Probability & Dynamic Estimation:** Bayesian filtering, Markov Decision Processes (MDPs), Extended Kalman Filtering (EKF), Factor Graphs for SLAM, stochastic control.
+* **Thermodynamics & Membrane Transport:** Osmotic pressure gradients ($\Delta \pi$), mass transport equations, reverse osmosis flux mechanics.
+
+### ⚙️ Level 1: The Executable Substrate (Tech-Stack Agnostic)
+Because I master the mathematical core, I am completely **tech-stack agnostic**—adapting to any modern stack and reading research papers into production code in hours:
+* **Robotics & Cyber-Physical Systems:** `ROS 2` • `Micro-ROS` • `Gazebo` • `Embedded C/C++` • `FreeRTOS` • `ESP32 / STM32` • `Linux Kernel` • `CAN Bus / I2C / SPI` • `LiDAR Fusion`
+* **Machine Learning & Perception:** `PyTorch` • `CUDA` • `OpenCV` • `Segment Anything (SAM)` • `Diffusion Pipelines` • `Multimodal LLMs & Agents` • `ONNX Runtime Edge`
+* **Systems, Full-Stack & Cloud:** `Python` • `Rust` • `TypeScript` • `Swift` • `React Native / Expo` • `Cloudflare Workers & Vector DBs` • `PostgreSQL / PostGIS` • `Docker`
+
+---
+
+## 🏛️ Tripartite Architecture: Purpose, Mind & Execution
+
+My work is structured across three mutually reinforcing dimensions: **Human Flourishing (Social Sanctuary & Long-term Longevity)**, **Intellectual Agency (Public Voice & Philosophy)**, and **High-Velocity Engineering (Commercial Ventures & Scalable Software)**.
+
+```
+                      ┌──────────────────────────────────────┐
+                      │      ALEJANDRO ORTIZ TIQUE           │
+                      └──────────────────┬───────────────────┘
+                                         │
+         ┌───────────────────────────────┼───────────────────────────────┐
+         ▼                               ▼                               ▼
+ 🛡️ HUMAN FLOURISHING            🎙️ INTELLECTUAL MIND           ⚡ COMMERCIAL ENGINE
+ (Social Impact & Longevity)     (Voice & Thought Leadership)   (Deep-Tech & Scalable Software)
+ ───────────────────────────     ────────────────────────────   ───────────────────────────────
+ • Aurora App (Diana Award)      • NeoReplicante (Cybernetics)  • NeuronaX S.A.S. (CTO)
+ • Aspire Harvard Seed Grant     • Moot Court Champion (AU WCL) • Karpati.Club (AI University)
+ • VNS Physiological Sensing     • AI Group Lead (IEEE CS)      • PicoyPlacaYA.com (Mobility)
+ • Future Medical Longevity      • BioArt & AI Ethics           • miLuka.org (PropTech)
+                                                                • AgroBot & Mars Rover (URC)
 ```
 
-* **Vector Calculus & Differential Geometry:**  
-  Gradient fields, directional derivatives, manifold optimization, flux & divergence theorems, Lagrangian dynamics ($\mathcal{L} = T - V$).
-* **Linear Algebra & Spectral Theory:**  
-  SVD, eigendecompositions, pseudoinverses, orthogonal projections, high-dimensional tensor operations.
-* **Probability & Dynamic Estimation:**  
-  Bayesian inference, Markov Decision Processes (MDPs), Extended Kalman Filters (EKF), Factor Graphs for SLAM.
-* **Thermodynamics & Transport Phenomena:**  
-  Membrane osmotic pressure, mass transport, reverse osmosis flux dynamics.
+---
 
-</td>
-<td valign="top">
+### 🛡️ I. Human Flourishing & Social Sanctuary
 
-* **Robotics & Cyber-Physical Systems:**  
-  `ROS 2` • `Micro-ROS` • `Gazebo` • `Embedded C/C++` • `FreeRTOS` • `ESP32 / STM32` • `Linux Kernel` • `CAN Bus / I2C / SPI` • `LiDAR & Sensor Fusion`
-* **Machine Learning & Perception:**  
-  `PyTorch` • `CUDA` • `OpenCV` • `Segment Anything (SAM)` • `Diffusion Models` • `Multimodal LLMs & Agents` • `Hugging Face` • `ONNX Runtime Edge`
-* **Systems, Mobile & Cloud Infrastructure:**  
-  `Python` • `Rust` • `TypeScript` • `Swift` • `React Native / Expo (0.86)` • `Cloudflare Workers & Vector DBs` • `Docker` • `PostgreSQL / PostGIS`
-* **Philosophy:**  
-  *Tech-stack agnostic.* High adaptability, reading papers to code in hours, architecting across the entire stack from bare metal to cloud orchestrators.
+*Dedicated to restoring human dignity, eliminating structural suffering, and advancing healthspan.*
 
-</td>
-</tr>
-</table>
+* **🛡️ [Aurora App](https://miaurora.app) — Sovereign Clarity & Urban Safety**  
+  *Founder & Executive Director • Recipient of The Diana Award 2024 • Aspire Institute Seed Grant (Harvard)*  
+  * **Mission:** An open-source mobile sanctuary restoring human attention and urban safety, actively combating gender-based violence and compulsive digital urge cycles.
+  * **Global Accolades:** Awarded **The Diana Award 2024 Roll of Honour** (UK) and the **Community Action Award from the Aspire Institute (founded at Harvard University)**.
+  * **Impact & Architecture:** Protected 50+ victims with free legal representation; 350+ active users. Built with React Native 0.86, Expo SDK 57, Mapbox with privacy-quantized 50m spatial grids, ephemeral walk tokens, and somatosensory vagus-nerve haptic pacing.
+  * 🔗 [Mobile Codebase](https://github.com/Alortiztique/aurora-mobile) • [Vimeo Demo](https://vimeo.com/1231786894) • [Web Platform](https://miaurora.app)
+* **🔬 Wearable Physiological Computing & Neuroregulation**  
+  *Research Mentee under Tan Gemicioglu (Cornell Tech)*  
+  * Engineered tracking software and deployment protocols for non-invasive **Vagus Nerve Stimulation (VNS)** to regulate physiological states.
+  * *Long-Term Vision:* Pursuing medical research and bio-engineering to unlock cellular longevity, somatosensory health, and the eradication of biological suffering.
 
 ---
 
-## 🏛️ Flagship Ventures & Engineering Deployments
+### 🎙️ II. Intellectual Agency & Public Leadership
 
-<table>
-<tr>
-<td width="50%" valign="top">
+*Dedicated to independent thought, cybernetics, dialectics, and community empowerment.*
 
-### 🛡️ Aurora App — Sovereign Clarity & Urban Safety
-*Founder & Executive Director • Recipient of The Diana Award 2024*
-
-* **Mission:** Combating gender-based violence and restoring human attention and urban safety through an open-source, non-exploitative mobile sanctuary.
-* **Impact:** Supported 50+ victims with free legal representation & counseling; 350+ active users; recognized internationally on the **Roll of Honour of The Diana Award**.
-* **Architecture:** React Native 0.86, Expo SDK 57, Mapbox with privacy-quantized 50m spatial grids, ephemeral cryptographic walk tokens, somatosensory haptic pacing, RevenueCat patron model.
-* 🔗 **Repository:** [Alortiztique/aurora-mobile](https://github.com/Alortiztique/aurora-mobile) • **Live:** [miaurora.app](https://miaurora.app) • **Video:** [Vimeo Demo](https://vimeo.com/1231786894)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ NeuronaX S.A.S. — Applied AI & Creative Engineering
-*Co-Founder & Chief Technology Officer (CTO)*
-
-* **Mission:** Bridging the gap between cutting-edge foundational models and high-converting commercial execution while mentoring rising student engineers.
-* **Core Divisions:** Enterprise Multi-Agent Workflows, Generative Diffusion Pipelines for photorealistic advertising, and AgriTech Edge Robotics.
-* **Talent Thesis:** Backing unconstrained youth engineering talent to outpace legacy corporate consultancies with hyper-rapid prototyping.
-* 🔗 **Organization:** [github.com/NeuronaX-SAS](https://github.com/NeuronaX-SAS) • **Hub:** [linktr.ee/NeuronaX.SAS](https://linktr.ee/NeuronaX.SAS)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🪐 MARIA — Mars Rover Explorer (Robocol Team)
-*University Rover Challenge (URC) Competitor*
-
-* Mars exploration rover engineered for the University Rover Challenge held at the Mars Desert Research Station in Utah, USA.
-* Implemented autonomous navigation pipelines, obstacle avoidance in unstructured terrain, and robotic manipulation systems for scientific soil and dust sampling.
-* 🔗 **Showcase:** [Robocol Rover at URC](https://www.instagram.com/p/C5WoS5fuhks/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦅 EagleView AI — Aerospace Environmental Defense
-*Engineered for the Colombian Aerospace Force (FAC)*
-
-* Deep-learning computer vision platform analyzing high-resolution aerial and satellite imagery to protect Colombia's strategic biodiversity.
-* Automated real-time segmentation and alerting for deforestation vectors, illegal mining corridors, and critical water shed encroachment.
-* 🔗 **Showcase:** [EagleView AI FAC Project](https://www.instagram.com/p/C77hJxXv6YX/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 AgroBot — Autonomous Crop Intelligence
-*Robotic Platform for Precision Agriculture*
-
-* Autonomous field robot engineered to scout, sow, monitor, and selectively manage agricultural crops.
-* Bridges multi-spectral camera vision with localized micro-irrigation telemetry, serving as the hardware precursor to my doctoral climate-resilience research.
-* 🔗 **Reference:** [Autonomous AgroBot Initiative](https://agrobot.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Physiological Computing & Wearable Sensing
-*Research Mentee under Tan Gemicioglu (Cornell Tech)*
-
-* Participated in the deployment study and tracking software engineering for non-invasive **Vagus Nerve Stimulation (VNS)** applications.
-* Explored physiological closed-loop feedback, human-computer interaction (HCI), and wearable sensing architectures for neuroregulation.
-* 🔗 **Reference:** [Tan Gemicioglu Research Lab](https://tangemicioglu.com)
-
-</td>
-</tr>
-</table>
+* **🎙️ [NeoReplicante](https://linktr.ee/neoreplicante) — BioArt, Cybernetics & Future Engineering**  
+  *Creator & Scientific Communicator*  
+  * Independent salon and media channel exploring cybernetics, human-machine symbiosis, bioart, philosophy of mind, and the geopolitical future of deep tech.
+  * Building a high-integrity intellectual identity that bridges Latin American engineering brilliance with global frontier science.
+* **🧠 AI Group Leader — IEEE Computer Society (Universidad de los Andes)**  
+  * Directing technical workshops, frontier paper reading groups (diffusion models, state-space architectures, multimodal agents), and training student researchers.
+* **🥇 1st Place Champion — International Moot Court Competition (American University Washington College of Law)**  
+  * Ranked #1 in oral advocacy, structural legal dialectics, and international human rights jurisprudence—demonstrating exceptional precision in rhetoric, argumentation, and systemic reasoning.
 
 ---
 
-## 🏆 Honors, Leadership & Interdisciplinary Excellence
+### ⚡ III. Deep-Tech Engineering & Scalable Commercial Engines
 
-* 👑 **The Diana Award (2024 Roll of Honour):** Recognized with the UK's most prestigious youth humanitarian honor for founding *Aurora App* and championing human rights and tech-driven protection for victims of violence.
-* 🧠 **AI Group Leader — IEEE Computer Society (Universidad de los Andes):** Directing weekly technical workshops, research reading groups on modern transformer architectures, and hackathon teams.
-* 🥇 **1st Place Champion — International Moot Court Competition (American University Washington College of Law):** Ranked #1 in oral advocacy, structural legal analysis, and international human rights jurisprudence—demonstrating rare cross-domain mastery in communication, dialectics, and precision argumentation.
-* 🎙️ **NeoReplicante:** Creator and scientific divulgator bridging cybernetics, bioart, philosophy of mind, software architecture, and the future of human-machine symbiosis. [Explore the salon](https://linktr.ee/neoreplicante).
+*Driven by NeuronaX S.A.S. — transforming applied AI, robotics, and software into scalable enterprises.*
+
+* **⚡ [NeuronaX S.A.S.](https://github.com/NeuronaX-SAS) — Applied AI & Creative Engineering**  
+  *Co-Founder & Chief Technology Officer (CTO)*  
+  * Delivering high-converting enterprise AI agents, automated workflow orchestration, custom diffusion generation pipelines, and AgriTech field hardware.
+  * Accelerating top-tier student engineers across Latin America to outpace traditional corporate consultancies.
+  * 🔗 [NeuronaX GitHub](https://github.com/NeuronaX-SAS) • [NeuronaX Ecosystem](https://linktr.ee/NeuronaX.SAS)
+* **🎓 [Karpati.Club](http://Karpati.Club) — The Cyber-University for Applied AI**  
+  * Gamified Spanish-first learning platform for AI, mathematics, and technical critical thinking. Features real-time 3D interactive campus (React Three Fiber), Gemini AI automated feedback, daily coding streaks, and verifiable on-chain microcredentials.
+* **🚗 [PicoyPlacaYA.com](http://PicoyPlacaYA.com) — Real-Time Civic Mobility Intelligence**  
+  * High-speed civic utility platform providing real-time vehicular restriction schedules, multi-city plate queries, and automated alerts for millions of drivers in Colombia.
+* **🏠 [miLuka.org](http://miLuka.org) — Automated PropTech Financial Rails**  
+  * Full-stack platform centralizing lease contracts, property administration fees, and recurring monthly payment automation for tenants and landlords using Convex, TypeScript, and Wompi rails.
+* **🪐 [MARIA — Mars Rover Explorer](https://www.instagram.com/p/C5WoS5fuhks/) (Robocol @ URC)**  
+  * Autonomous navigation and scientific soil sampling rover engineered for the University Rover Challenge at the Mars Desert Research Station in Utah.
+* **🦅 [EagleView AI](https://www.instagram.com/p/C77hJxXv6YX/) — Aerospace Environmental Vision**  
+  * Developed for the Colombian Aerospace Force (FAC) to monitor biodiversity, identify illegal mining, and protect critical rainforest reserves via aerial computer vision.
+* **🌾 [AgroBot](https://agrobot.com) — Autonomous Precision Farming Rover**  
+  * Field robotics platform scouting crops, monitoring soil parameters, and testing micro-irrigation actuators—serving as the direct physical foundation for my doctoral research.
 
 ---
 
-## 📊 Live GitHub Analytics & Development Pulse
+## 📊 Live GitHub Analytics & Real-Time Pulse
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alortiztique&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&rank_icon=github" alt="Alejandro's GitHub Stats" height="175"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alortiztique&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=7928ca&text_color=c9d1d9" alt="Top Languages" height="175"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alortiztique&theme=tokyo-night&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff0080" alt="GitHub Streak" width="95%"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Alortiztique&show_icons=true&theme=tokyonight&hide_border=true" alt="Alejandro's GitHub Stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alortiztique&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alortiztique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
